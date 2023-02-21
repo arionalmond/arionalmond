@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on business operations software at Red Ventures.
+- 🔭 I’m currently working on business operations software at RVO Health.
