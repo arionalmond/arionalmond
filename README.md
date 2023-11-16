@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Traveler
 
 <!--
 **arionalmond/arionalmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on business operations software at RVO Health.
+"What if changing the world was just about being here, by showing up no matter how many times we get told we don’t belong..."
