@@ -8,9 +8,9 @@
 <font color="green">
 
 
-## Hello Traveler
+# Hello Traveler
 
-### Contents:
+## Contents:
 
 * [1. Welcome](#welcome)
 * [2. About Me](#about-me)
@@ -20,14 +20,14 @@
 * [6. Videos](pages/videos) 
 * [7. Test](pages/test) 
  
-### Welcome 
+## Welcome 
 to my [Github](https://github.com/arionalmond/arionalmond).  
 
 You can also find me on [these sites](https://www.linktr.ee/arionalmond).  
 See anything outdated?  
 Something to mention, please leave a comment [here](https://github.com/arionalmond/arionalmond/issues).  
 
-### About Me
+## About Me
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/andy.jpeg" width="300" height="150">
 
@@ -63,15 +63,16 @@ Years:
 
 [//]: # (wellfound.com/u/arion-almond)
 
-### Repositories
+## Repositories
 
-* [This Github Account](https://github.com/arionalmond?tab=repositories)
-* [School Github Account](https://github.com/arionalmond?tab=repositories)
+* [This Github Repos](https://github.com/arionalmond?tab=repositories)
+* [Previous Github Repos](https://github.com/arocya?tab=repositories)
+* [Github Repos for Teaching/Examples](https://github.com/arionuncc?tab=repositories)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/snoopAround.gif" width="300" height="150">
 
 
-### Tools
+## Tools
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/tony.jpeg" width="300" height="150">
 
@@ -82,7 +83,7 @@ Years:
 * [Brave (browser)](https://www.brave.com)
 * [brave.com/leo](https://www.brave.com/leo)
 
-### Resources
+## Resources
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/typing.jpeg" width="300" height="150">
 
