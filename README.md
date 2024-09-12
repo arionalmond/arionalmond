@@ -1,5 +1,6 @@
 
 [//]: # (arionalmond/README.md is at the top)
+[arionalmond/README.md is at the top]: #
 [//]: # (this file is shown at the top of my github profile at github.com/arionalmond)
 [comment]: # (the actual repo is github.com/arionalmond/arionalmond)
 
@@ -14,16 +15,13 @@
 * [1. Welcome](#welcome)
 * [2. About Me](#about-me)
 * [3. Repositories](#repositories)  
-* [4. Old Repos](https://github.com/arocya)
-* [5. Tools](#tools)
-* [6. Resources](#resources) 
-* [7. Check List](#checklist) 
-* [8. Videos](#videos) 
+* [4. Tools](#tools)
+* [5. Resources](#resources)  
+* [6. Videos](pages/videos) 
+* [7. Test](pages/test) 
  
-### Welcome
-
-Welcome to my [Github](https://github.com/arionalmond/arionalmond).  
-
+### Welcome 
+to my [Github](https://github.com/arionalmond/arionalmond).  
 
 You can also find me on [these sites](https://www.linktr.ee/arionalmond).  
 See anything outdated?  
@@ -31,18 +29,22 @@ Something to mention, please leave a comment [here](https://github.com/arionalmo
 
 ### About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="media/andy.jpeg" width="300" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/andy.jpeg" width="300" height="150">
 
+Years:
 * 0-17 (Building Teams) 
     * Sports: Basketball(PG,SF), Baseball(P,C,LF), Football(QB,WR,LF)
+        * [Basketball Positions](https://en.wikipedia.org/wiki/Basketball_positions)
+        * [Baseball Positions](https://en.wikipedia.org/wiki/Baseball_positions)
+        * [Football Positions](https://en.wikipedia.org/wiki/American_football_positions)
     * Gaming: NES, Gameboy, SEGA, N64, Virtual Boy, PS(1,2)
 
-* 17-25 years (Building Real World Structures and Lifeforms)
+* 17-25 (Building Real World Structures and Lifeforms)
     * Parking Decks
     * Custom Built Homes
     * My Son, Lawson
 
-* 25-> (Building Courses, Programs, Software, B2B, C2B)
+* 25-> present (Building Courses, Programs, Software, B2B, C2B)
     * [RCCC](https://www.rccc.edu/)
         * AAS Information Technology - 2013
         * AAS Networking - 2013
@@ -56,7 +58,7 @@ Something to mention, please leave a comment [here](https://github.com/arionalmo
     * [RVO Health](https://www.redventures.com/)
         * Senior Software Engineer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="media/jim.jpeg" width="300" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/jim.jpeg" width="300" height="150">
 
 
 [//]: # (wellfound.com/u/arion-almond)
@@ -66,7 +68,7 @@ Something to mention, please leave a comment [here](https://github.com/arionalmo
 * [This Github Account](https://github.com/arionalmond?tab=repositories)
 * [School Github Account](https://github.com/arionalmond?tab=repositories)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="media/snoopAround.gif" width="300" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/snoopAround.gif" width="300" height="150">
 
 
 ### Tools
@@ -76,12 +78,13 @@ Something to mention, please leave a comment [here](https://github.com/arionalmo
 
 * [VS Code (code editor)](https://code.visualstudio.com/)
 * [Markdown (text formatting)](https://www.markdownguide.org/cheat-sheet)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 * [Brave (browser)](https://www.brave.com)
 * [brave.com/leo](https://www.brave.com/leo)
 
 ### Resources
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="media/typing.jpeg" width="300" height="150">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="media/typing.jpeg" width="300" height="150">
 
 * [Library Finder](https://www.careeronestop.org/LocalHelp/CommunityServices/find-libraries.aspx?location=NC)
     * [Libby w/Library Card](https://libbyapp.com)
@@ -95,22 +98,8 @@ Something to mention, please leave a comment [here](https://github.com/arionalmo
 * [devhints.io](https://www.devhints.io)
 * [learnxinyminutes.com](https://www.learnxinyminutes.com)
 
-### Checklist  
 
-![alt text](media/7.jpeg)
 
-- [x] Learn how to checklist in Markdown   
-- [x] Update checklist
-- [ ] [BERF](https://www.roadmap.sh/best-practices/backend-performance)  
-
-### Videos
-
-GIT:  
-
-[![GIT IT](https://img.youtube.com/vi/HkdAHXoRtos/0.jpg)](https://www.youtube.com/watch?v=HkdAHXoRtos)
-
-Same Image as Video above, but lands on different video:  
-[![GOT IT](https://img.youtube.com/vi/HkdAHXoRtos/0.jpg)](https://www.youtube.com/watch?v=66tfvFeALBQ)
 
 [//]: # (This **word** is bold. This <em>word</em> is italic.)
 
