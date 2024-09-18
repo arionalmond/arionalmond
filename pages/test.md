@@ -79,7 +79,7 @@ X^2^
 
 
 <figure>
-    <img src="../media/albuquerque.jpg"
+    <img src="../media/albuquerque.avif"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
@@ -94,9 +94,5 @@ Right arrow (→) — &rarr;
 Down arrow (↓) — &darr;  
 Degree (°) — &#176;  
 Pi (π) — &#960;  
-
-
-
-
 
 [back to table of contents](../README.md)  
