@@ -1,41 +1,54 @@
 
-### What I'm into:  
-- *Problem Solving*, Puzzles, Cost Saving  
-- *Architecture*, Terraform, AWS, GCP, Azure
-- *Golang*, JS, Node, Express
-- Learning from and helping others learn
+## Me
+**Father**, Software Engineer  
+Problem Solver, Puzzler, **Cost Saver**  
+**Builder**, from parking decks and houses to clouds  
+Architect, Terraform, **AWS**, GCP, Azure  
+Win as a team, learn from and **help others** learn  
+Multilingual(if you speak code) **Golang**, JS, Node, Express  
+Love a good **challenge**, never stop learning, or laughing  
+Is it **helping people**? It should be  
 
+## My Sites
+github profile ([current page](https://github.com/arionalmond))  
 
-## Tools
-* [markdown](https://www.markdownguide.org/cheat-sheet)
-  * [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
-* [vscodium](https://vscodium.com/)
-  * [nano](https://www.nano-editor.org/)
-  * [vi](https://www.redhat.com/sysadmin/introduction-vi-editor)
-* [hugo](https://www.markdownguide.org/tools/hugo/)
+trying to [blog](https://arionalmond.github.io/blog/) more, humble mumble  
 
-* [Brave (browser)](https://www.brave.com)
-  * [brave.com/leo](https://www.brave.com/leo)
+[test site](https://arionalmond.github.io/site/)  
 
-## Resources
-* [go.dev](https://go.dev/images/go-logo-white.svg)
-* [roadmap.sh](https://www.roadmap.sh)
-* [devhints.io](https://www.devhints.io)
-* [learnxinyminutes.com](https://www.learnxinyminutes.com)
-* [javascript.info](https://javascript.info/)
-* [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [cheat sheets](https://developers.redhat.com/cheat-sheets)
-  * [linux advanced commands](https://developers.redhat.com/cheat-sheets/advanced-linux-commands?intcmp=701f20000012ngPAAQ&extIdCarryOver=true&sc_cid=701f2000001OH7EAAW)
+## My Metal
+**Spun Down at Times**  
+Pi 4 running PI OS  
+https://arion.serveuser.com  
+https://arion.moneyhome.biz  
 
-* [Library Finder](https://www.careeronestop.org/LocalHelp/CommunityServices/find-libraries.aspx?location=NC)
-    * [Libby w/Library Card](https://libbyapp.com)
-    * [Kanopy w/Library Card](https://www.kanopy.com/)
+## Their Cloud
+**Spun Down/In Progress**  
+Recently been more focused on how to leverage cloud provider tooling, on my own machines.  
+For, cough, cough, reasons ... 
+AWS, Azure, GCP
 
-* [careeronestop](https://www.careeronestop.org/)
-    * [API](https://www.careeronestop.org/Developers/WebAPI/web-api.aspx)
-    * [Data](https://www.careeronestop.org/Developers/Data/data-downloads.aspx)
+## Previous Work
+RVO Health  
+Red Ventures  
+Avidxchange  
+TIAA-CREF  
+TA Intro to CS at UNCC  
 
+## Brought to you with help from
 
-<a href="go.dev"><img src="https://go.dev/images/go-logo-white.svg" alt="go.dev" /></a>
+<a href="https://go.dev"><img height="100" width="100" src="https://go.dev/images/go-logo-white.svg" alt="go" /></a>
+<a href="https://gohugo.io"><img height="100" width="100" src="https://gohugo.io/images/hugo-logo-wide.svg" alt="hugo" /></a>  
+<a href="https://wikitech.wikimedia.org"><img height="100" width="100" src="https://wikitech.wikimedia.org/static/images/icons/wikitech.svg" alt="wikitech"/></a>
+<a href="https://openjsf.org/"><img height="100" width="100" src="https://avatars.githubusercontent.com/u/48335322?s=200&v=4" alt="openjs" /></a>  
+<a href="https://nodejs.org/en"><img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" /></a>
+<a href="https://gohugo.io/documentation/"><img height="100" width="100" src="https://gohugo.io/images/gopher-side_color.svg" alt="gopher" /></a>  
 
-![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+```
+𝙾 𝙱 𝙺 𝚁
+𝚄 𝙾 𝚇 𝙾 𝙶 𝙷 𝚄 𝙻 𝙱 𝚂 𝙾 𝙻 𝙸 𝙵 𝙱 𝙱 𝚆 𝙵 𝙻 𝚁 𝚅 𝚀 𝚀 𝙿 𝚁 𝙽 𝙶 𝙺 𝚂 𝚂 𝙾
+𝚃 𝚆 𝚃 𝚀 𝚂 𝙹 𝚀 𝚂 𝚂 𝙴 𝙺 𝚉 𝚉 𝚆 𝙰 𝚃 𝙹 𝙺 𝙻 𝚄 𝙳 𝙸 𝙰 𝚆 𝙸 𝙽 𝙵 𝙱 𝙽 𝚈 𝙿
+𝚅 𝚃 𝚃 𝙼 𝚉 𝙵 𝙿 𝙺 𝚆 𝙶 𝙳 𝙺 𝚉 𝚇 𝚃 𝙹 𝙲 𝙳 𝙸 𝙶 𝙺 𝚄 𝙷 𝚄 𝙰 𝚄 𝙴 𝙺 𝙲 𝙰 𝚁
+```
+
+##### [fin](https://en.wikipedia.org/wiki/Kryptos)
