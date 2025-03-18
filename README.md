@@ -3,37 +3,19 @@
 **Father**, Software Engineer  
 Problem Solver, Puzzler, **Cost Saver**  
 **Builder**, from parking decks and houses to clouds  
-Architect, Terraform, **AWS**, GCP, Azure  
+Terraform, **AWS**, GCP, Azure  
+  
 Win as a team, learn from and **help others** learn  
-Multilingual(if you speak code) **Golang**, JS, Node, Express  
+**Golang**, JS, Node, Express, Electron  
 Love a good **challenge**, never stop learning, or laughing  
 Is it **helping people**? It should be  
 
-## My Sites
-github profile ([current page](https://github.com/arionalmond))  
-
-trying to [blog](https://arionalmond.github.io/blog/) more, humble mumble  
-
-[test site](https://arionalmond.github.io/site/)  
-
-## My Metal
-**Spun Down at Times**  
-Pi 4 running PI OS  
-https://arion.serveuser.com  
-https://arion.moneyhome.biz  
-
-## Their Cloud
-**Spun Down/In Progress**  
-Recently been more focused on how to leverage cloud provider tooling, on my own machines.  
-For, cough, cough, reasons ... 
-AWS, Azure, GCP
-
-## Previous Work
+## Previous Employers
 RVO Health  
 Red Ventures  
 Avidxchange  
 TIAA-CREF  
-TA Intro to CS at UNCC  
+Teaching Assistant: Intro to Computer Science at the University of North Carolina at Charlotte  
 
 ## Brought to you with help from
 
