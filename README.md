@@ -1,20 +1,17 @@
 
-## Me
-**Father**, Software Engineer  
-Problem Solver, Puzzler, **Cost Saver**  
-**Builder**, from parking decks and houses to clouds  
-Terraform, **AWS**, GCP, Azure  
-  
+## Me  
+**Father**, Software Engineer, Teacher  
+**Builder**, Terraform, **AWS**  
 Win as a team, learn from and **help others** learn  
 **Golang**, JS, Node, Express, Electron  
-Love a good **challenge**, never stop learning, or laughing  
-Is it **helping people**? It should be  
+Love a good **challenge**, never stop learning or laughing
+Is it **helping people**? It should be!  
 
 ## Previous Employers
-RVO Health  
-Red Ventures  
-Avidxchange  
-TIAA-CREF  
+RVO Health: Senior Software Engineer  
+Red Ventures: Associate Software Engineer, Software Engineer, Senior Software Engineer  
+Avidxchange: QA Engineer, Software Developer  
+TIAA-CREF: Third Tier Support  
 Teaching Assistant: Intro to Computer Science at the University of North Carolina at Charlotte  
 
 ## Brought to you with help from
