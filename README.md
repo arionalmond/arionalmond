@@ -1,10 +1,13 @@
 
 ## Me  
-**Father**, Software Engineer, Teacher  
-**Builder**, Terraform, **AWS**  
-Win as a team, learn from and **help others** learn  
-**Golang**, JS, Node, Express, Electron  
-Love a good **challenge**, never stop learning or laughing
+**Father**  
+Embrace the **challenge** of this life, never stop reading, learning or laughing.  
+  
+Teacher  
+Win as a team, learn from and **help others** learn.  
+
+Software Engineer  
+**Go**, JS, Node, Express, Electron, Terraform, AWS  ...  
 Is it **helping people**? It should be!  
 
 ## Previous Employers
